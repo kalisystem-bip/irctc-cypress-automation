@@ -1,5 +1,5 @@
 {
-  "TRAIN_NO": "122403",
+  "TRAIN_NO": "12203",
   "TRAIN_COACH": "3A",
   "TRAVEL_DATE": "31/05/2026",
   "SOURCE_STATION": "BJU",
@@ -7,7 +7,7 @@
   "DESTINATION_STATION": "NDLS",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "yugalsah4387@ptyes",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Mandeep Harsh",
